@@ -1,5 +1,5 @@
 ### Hi there 👋🏾!
-<--
+
 - 🔭 I’m currently working on redoing previous projects in R
 - 🌱 I’m currently learning Python techniques for data science and machine learning
 - 👯 I’m looking to collaborate on bioinformatic research projects!
