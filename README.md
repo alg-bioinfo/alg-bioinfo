@@ -1,6 +1,6 @@
 ### Hi there 👋🏾!
 
-- 🔭 I’m currently working on my first Bioinformatics project
+- 🔭 I’m currently working on my first Bioinformatics research project
 - 🌱 I’m currently learning Python techniques for data science and machine learning
 - 👯 I’m looking to collaborate on bioinformatic research projects!
 - 🤔 I’m looking for undergraduate research opportunities
